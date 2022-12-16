@@ -22,6 +22,6 @@ public class TestMatematicas {
 		if (esDivisiblePorCinco)
 			System.out.println("El número introducido es divisible entre cinco");
 		else
-			System.out.println("El número introducido nos es divisible entre cinco");
+			System.out.println("El número introducido no es divisible entre cinco");
 	}
 }
