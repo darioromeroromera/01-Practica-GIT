@@ -4,4 +4,16 @@ public class Matematicas {
 			return true;
 		return false;
 	}
+
+	public static boolean esDivisiblePorTres(int numero) {
+		if (numero %3 == 0)
+			return true;
+		return false;
+	}
+
+	public static boolean esDivisiblePorCinco(int numero) {
+		if (numero %5 == 0)
+			return true;
+		return false;
+	}
 }
